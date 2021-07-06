@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hazelcast-depedent-jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Softwares/hazelcast-4.2.1/lib/hazelcast-all-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Softwares/hazelcast-4.2.1/lib/hazelcast-spring-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Softwares/hazelcast-4.2.1/lib/hazelcast-4.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
